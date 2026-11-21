@@ -1,16 +1,15 @@
-## Hi there 👋
+# Technical Product Manager
 
-<!--
-**Tkm005/Tkm005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I connect customer needs, technology, and delivery teams to turn ideas into clear, achievable product outcomes.
 
-Here are some ideas to get you started:
+## Focus areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Product discovery, requirements, and prioritization
+- Roadmaps, backlogs, and release planning
+- Stakeholder communication and cross-functional alignment
+- Project planning, dependencies, risks, and delivery
+- Agile product development and continuous improvement
+
+## Portfolio
+
+Explore my [Product & Project Management Portfolio](https://github.com/Tkm005/product-management-portfolio). It includes a structure for documenting project context, goals, decisions, delivery, and outcomes.
